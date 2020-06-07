@@ -9,3 +9,5 @@ modif depuis github (repository principal)
 modif depuis github (mon fork)
 
 Premier conflit
+
+Premier stash
